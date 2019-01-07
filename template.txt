@@ -1,0 +1,4 @@
+
+General;File is:%CompleteName% | 
+Video;Video:%InternetMediaType% (%Width%x%Height%) |
+Audio;Audio=%Format% |
